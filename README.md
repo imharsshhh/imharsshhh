@@ -5,6 +5,8 @@
 
 I'm a passionate **Flutter Developer** with over **4 years** of hands-on experience building high-quality cross-platform mobile apps. My goal is to create efficient, scalable, and user-friendly solutions that meet client needs. As a passionate Flutter developer, I thrive on facing challenges and solving complex problems. I hold a Bachelor's degree in Computer Scienece Engineering from [Gujarat Technological University (GTU)](https://www.gtu.ac.in/), India.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imharsshhh&label=Views&color=red&style=plastic&style=for-the-badge" alt="imharsshhh" /> </p>
+
 ### 🛠️ Technologies & Tools
 
 ##### Languages
@@ -31,6 +33,7 @@ I'm a passionate **Flutter Developer** with over **4 years** of hands-on experie
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+[![](https://visitcount.itsvg.in/api?id=imharsshhh&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## Connect with me:
 
@@ -45,6 +48,7 @@ I'm a passionate **Flutter Developer** with over **4 years** of hands-on experie
 | <a href="https://github.com/imharsshhh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imharsshhh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Harsh's github stats" /></a> | <a href="https://github.com/imharsshhh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imharsshhh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
+<div align="center">
+    <a href="https://buymeacoffee.com/imharsshhh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
